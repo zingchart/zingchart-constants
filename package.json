@@ -1,5 +1,5 @@
 {
-  "name": "zingchart-contants",
+  "name": "zingchart-constants",
   "version": "1.0.0",
   "description": "ZingChart methods, events, and other constants",
   "main": "main.js",
