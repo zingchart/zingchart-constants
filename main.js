@@ -1,6 +1,8 @@
 import EVENT_NAMES from './events.js';
 import METHOD_NAMES from './methods.js';
-import {DEFAULT_WIDTH, DEFAULT_HEIGHT} from './misc.js';
+import MISC from './misc.js';
+
+const {DEFAULT_WIDTH, DEFAULT_HEIGHT} = MISC;
 
 export default {
   EVENT_NAMES,
