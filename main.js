@@ -1,5 +1,5 @@
-import EVENT_NAMES from './events';
-import METHOD_NAMES from './methods';
+import EVENT_NAMES from './events.js';
+import METHOD_NAMES from './methods.js';
 import {DEFAULT_WIDTH, DEFAULT_HEIGHT} from './misc.js';
 
 export default {
