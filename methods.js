@@ -114,6 +114,7 @@ export default [
   'getinterval',
   'setinterval',
   'startfeed',
+  'stopfeed',
   'clearselection',
   'getselection',
   'setselection',
