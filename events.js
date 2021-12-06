@@ -77,6 +77,8 @@ export default [
   'feed_start',
   'zoom',
   'postzoom',
+  'zingchart.plugins.dragging.update',
+  'zingchart.plugins.dragging.complete',
   'heatmap.mousemove',
   'zingchart.plugins.selection-tool.mouseup',
   'zingchart.plugins.selection-tool.selection',
