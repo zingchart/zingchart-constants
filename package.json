@@ -1,6 +1,6 @@
 {
   "name": "zingchart-constants",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ZingChart methods, events, and other constants",
   "main": "main.js",
   "scripts": {
